@@ -14,5 +14,6 @@ public class getTime {
         System.out.println("third");
         System.out.println("hot-fix");
         System.out.println("master2");
+        System.out.println("hot-fix2");
     }
 }
